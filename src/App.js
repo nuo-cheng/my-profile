@@ -8,7 +8,7 @@ function App() {
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         
           <h1>Nuo Cheng</h1>
-      </header>
+
           <h3>Eduation</h3>
           <p>University of San Francisco</p>
           <p>08/2019 - Present</p>
@@ -52,7 +52,7 @@ function App() {
         >
           Learn React
         </a> */}
-      
+      </header>
     </div>
   );
 }

@@ -8,6 +8,9 @@ function App() {
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
           Nuo Cheng
+
+          Eduation
+          University of San Francisco
         </p>
         {/* <a
           className="App-link"
